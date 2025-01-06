@@ -26,5 +26,5 @@ Here is a Postman screenshot of the uploaded coupon Excel file: <br>
 
 To test the upload functionality, you can download a Coupon Excel file below:
 
-[Download Coupon Excel File](src/main/resources/temporary-folder/coupon_data.xlsx)
+[Download Coupon Excel File](PK)
 
